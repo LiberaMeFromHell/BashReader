@@ -24,5 +24,5 @@ The app implements MVVM pattern
 ## TODO
 
 * Replace synchronous calls for different sources by asynchronous one by using Rxjava
-* Add unity tests
+* Add unit tests
 * Main screen do not follow Material Design patterns. To be fixed
