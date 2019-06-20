@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sources_list">
+        <item>bash.im</item>
+        <item>zadolba.li</item>
+        <item>xkcdb.com</item>
+    </string-array>
+
+
+    <string-array name="sources_defaults">
+        <item>bash.im</item>
+    </string-array>
+
+</resources>
